@@ -1,2 +1,3 @@
 # books
-Goodreads-books              comprehensive list of books listed in goodreads
+Using the Kaggle Dataset 
+Goodreads-books: comprehensive list of books listed in goodreads
